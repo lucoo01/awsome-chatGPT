@@ -105,7 +105,7 @@ Chrome 扩展程序可在任何页面上以弹出窗口的形式访问 ChatGPT
 #### [ChatGPT 导出和共享](https://github.com/liady/ChatGPT-pdf)
 用于将 ChatGPT 历史下载为 PNG、PDF 或创建可共享链接的 Chrome 扩展
 
-####[shareGPT](https://github.com/domeccleston/sharegpt)
+#### [shareGPT](https://github.com/domeccleston/sharegpt)
 ShareGPT 是一个开源的 Chrome 扩展程序，您只需单击一下即可分享您最疯狂的 ChatGPT 对话。
 
 ### [Superpower ChatGPT](https://chrome.google.com/webstore/detail/superpower-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc)
@@ -131,7 +131,7 @@ Visual Studio Code 扩展，允许你使用非官方的 ChatGPT API 来生成 Op
 用于 Slack 机器人的 ChatGPT, 机器人运行后，可以在 Slack 频道中提及它以向其发送消息。例如，您可以键入@my-bot hello 以向机器人发送“hello”消息。机器人将使用基于 GPT-3 模型生成的消息进行响应。
 
 ### Mac 插件
-#### [ChatGPT for desktop](ttps://github.com/vincelwt/chatgpt-mac)
+#### [ChatGPT for desktop](https://github.com/vincelwt/chatgpt-mac)
 为了让 ChatGPT 的使用更为简便，GitHub 上有开发者为 Mac 用户量身定制了一款小工具：ChatGPT for desktop。
 安装之后，可通过 Cmd+Shift+G 快捷键，快速在系统菜单栏启动 ChatGPT。
 
