@@ -124,6 +124,9 @@ Visual Studio Code 扩展，允许你使用非官方的 ChatGPT API 来生成 Op
 对回答提出后续问题
 通过点击 AI 的回应将代码片段插入到活动的编辑器中。
 
+#### [vscode-gptcommit](https://github.com/pwwang/vscode-gptcommit)
+VS Code 插件，使用 GPT 模型自动生成 Git 提交说明。
+
 #### [intellij-chatgpt](https://github.com/LiLittleCat/intellij-chatgpt)
 一个适合所有 JetBrains IDE 的 ChatGPT 插件。简单快捷，无需烦人的 token 复制，只需登录一次就可以使用。
 
