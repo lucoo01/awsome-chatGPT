@@ -95,6 +95,9 @@ Node.js 的同学，关注下「ChatGPT API」。
 
 
 ### ChatGPT 浏览器插件
+#### [WebChatGPT](https://github.com/qunash/chatgpt-advanced)
+增强ChatGPT，这款插件可以开启”参考网络搜索结果“，可以回答AI不知道的事情。
+
 #### [ChatGPT for Google](https://github.com/wong2/chat-gpt-google-extension)
 这款插件支持 Chrome / Edge / Firefox 等浏览器。
 在安装之后，除了会在浏览器正常展示 Google 搜索内容，还会在右侧展示 ChatGPT 反馈结果，进一步提升搜索效率。
